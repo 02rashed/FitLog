@@ -2,6 +2,8 @@
 
 A simple fitness application built with Next.js to track daily workout routines, exercise duration, and burned calories.
 
+Check it Live : https://fitlog-beige.vercel.app/
+
 ## 🌟 Key Features
 
 - **Today's Plan & Saved Lists**: Organize exercises for today or save them for later.
